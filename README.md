@@ -1,10 +1,10 @@
 Computational-Statistics
 CB19342 - Computational Statistics Record
 
-Name : Balaji S
+Name : S Hegavasanthan 
 
 Dept : B.tech Artificial Intelligence and Machine learing
 
 Sec : A
 
-Roll.no : 221501017
+Roll.no : 221501044
